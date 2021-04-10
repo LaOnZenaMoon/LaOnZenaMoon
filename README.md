@@ -7,15 +7,11 @@
 > 
 > * Front-end: 
 >   * Javascript
->   * JQuery
 >   * Vue.js
 >   * Thymeleaf
 > 
 > * DBMS: 
->   * MySQL 
->   * MSSQL 
->   * Oracle 
->   * Tibero
+>   * MySQL, MSSQL, Oracle, Tibero
 
 > ## 💬 Ask me about
 > [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:laonzenamoon@gmail.com)](mailto:laonzenamoon@gmail.com)
