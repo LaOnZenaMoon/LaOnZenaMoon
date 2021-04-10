@@ -1,5 +1,8 @@
-# Skills
-Back-end: Java, Spring Framework...
+### Skills
+Back-end:
+* Java
+** Spring
+
 Front-end: Javascript, Vue.js...
 DBMS: MySQL, Oracle...
 
