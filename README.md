@@ -7,7 +7,9 @@
 > 
 > * Front-end: 
 >   * Javascript
+>   * JQuery
 >   * Vue.js
+>   * Thymeleaf
 > 
 > * DBMS: 
 >   * MySQL 
