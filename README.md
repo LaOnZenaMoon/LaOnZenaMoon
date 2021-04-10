@@ -1,4 +1,9 @@
-### Hi there 👋
+# Skills
+Back-end: Java, Spring Framework...
+Front-end: Javascript, Vue.js...
+DBMS: MySQL, Oracle...
+
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:laonzenamoon@gmail.com)](mailto:laonzenamoon@gmail.com)
 
 <!--
 **LaOnZenaMoon/LaOnZenaMoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
