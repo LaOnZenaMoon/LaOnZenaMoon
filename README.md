@@ -1,14 +1,14 @@
-> ## Skills
+> ## 🌱  Skills
 > 
 > * Back-end:
 >   * Java
->   * Spring Framework, Spring Boot, Spring Batch, Spring Cloud
+>   * Spring MVC, Spring Boot, Spring Batch, Spring Cloud
 >   * JPA, MyBatis
 > 
-> * Front-end: 
+> * Front-end:
 >   * Javascript
 >   * Vue.js
->   * Thymeleaf
+>   * Thymeleaf, JSP
 > 
 > * DBMS: 
 >   * MySQL, MSSQL, Oracle, Tibero
