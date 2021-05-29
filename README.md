@@ -13,7 +13,7 @@
 > * DBMS: 
 >   * MySQL, MSSQL, Oracle, Tibero
 
-> ## 💬 Ask me about
+> ## 💬 Ask about me
 > Email | laonzenamoon@gmail.com
 > 
 > [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:laonzenamoon@gmail.com)](mailto:laonzenamoon@gmail.com)
