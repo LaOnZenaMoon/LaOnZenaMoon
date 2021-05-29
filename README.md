@@ -2,17 +2,23 @@
 > 
 > * Back-end:
 >   * Java
->   * Spring MVC, Spring Boot, Spring Batch, Spring Cloud
+>   * Spring MVC, Spring Boot, Spring Batch, Spring Security, Spring Cloud
 >   * JPA, MyBatis
-> 
+>   * Spring REST Docs, Swagger
+>   * Gradle, Maven
+>   * Junit5, Mockito
+>   
 > * Front-end:
 >   * Javascript
 >   * Vue.js
->   * Thymeleaf, JSP
+>   * Thymeleaf, JSP & Tiles
+>   * HTML5, CSS
 > 
-> * DBMS: 
+> * DevOps: 
 >   * MySQL, MSSQL, Oracle, Tibero
-
+> Jenkins  
+> Nginx, Tomcat
+> 
 > ## 💬 Ask about me
 > Email | laonzenamoon@gmail.com
 > 
