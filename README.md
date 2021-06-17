@@ -17,7 +17,8 @@
 > * DevOps: 
 >   * MySQL, MSSQL, Oracle, Tibero
 >   * Jenkins  
->   * Nginx, Tomcat
+>   * Apache, Nginx, Tomcat
+>   * Jmeter
 > 
 > ## 💬 Ask about me
 > Email | laonzenamoon@gmail.com
