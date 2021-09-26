@@ -4,6 +4,7 @@
 >   * Java
 >   * Spring MVC, Spring Boot, Spring Batch, Spring Security, Spring Cloud
 >   * JPA, MyBatis
+>     * Spring Data JPA, QueryDSL
 >   * Spring REST Docs, Swagger
 >   * Gradle, Maven
 >   * Junit5, Mockito
