@@ -5,6 +5,7 @@
 >   * Spring MVC, Spring Boot, Spring Batch, Spring Security
 >   * Spring Cloud
 >     * Zuul Gateway, Eureka, Ribbon, Hystrix
+>     * Spring Cloud Gateway
 >   * JPA, MyBatis
 >     * Spring Data JPA, QueryDSL
 >   * Spring REST Docs, Swagger
