@@ -4,8 +4,10 @@
 >   * Java
 >   * Spring MVC, Spring Boot, Spring Batch, Spring Security
 >   * Spring Cloud
->     * Zuul Gateway, Eureka, Ribbon, Hystrix
->     * Spring Cloud Gateway, Spring Cloud Config
+>     * Gateway & Loadbalance service: Zuul Gateway & Ribbon, Spring Cloud Gateway
+>     * Discovery service: Eureka
+>     * Circuit breaker: Hystrix, Resilience4j 
+>     * Spring Cloud Config
 >   * JPA, MyBatis
 >     * Spring Data JPA, QueryDSL
 >   * Spring REST Docs, Swagger
