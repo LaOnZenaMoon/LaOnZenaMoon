@@ -21,11 +21,15 @@
 >   * HTML5, CSS
 > 
 > * DevOps: 
->   * MySQL, MSSQL, Oracle, Tibero
+>   * RDBMS
+>     * MySQL, MSSQL, Oracle, Tibero
 >   * Jenkins  
 >   * Apache, Nginx, Tomcat
 >   * JMeter
->   * Docker
+>   * Container
+>     * Docker
+>     * Kubernetes
+>   * AWS
 > 
 > ## 💬 Ask about me
 > Email | laonzenamoon@gmail.com
