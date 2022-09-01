@@ -22,7 +22,10 @@
 > 
 > * DevOps: 
 >   * RDBMS
->     * MySQL, MSSQL, Oracle, Tibero
+>     * MySQL, Oracle
+>   * Redis
+>   * Message Queue
+>     * RabbitMQ, Kafka
 >   * Jenkins  
 >   * Apache, Nginx, Tomcat
 >   * JMeter
