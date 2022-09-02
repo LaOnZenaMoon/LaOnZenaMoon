@@ -5,8 +5,8 @@
 >   * Spring MVC, Spring Boot, Spring Batch, Spring Security
 >   * Spring Cloud
 >     * Gateway & Loadbalance service: Zuul Gateway & Ribbon, Spring Cloud Gateway
->     * Discovery service: Eureka
->     * Circuit breaker: Hystrix, Resilience4j 
+>     * Service Discovery: Eureka
+>     * Circuit Breaker: Hystrix, Resilience4j 
 >     * Spring Cloud Config
 >   * JPA, MyBatis
 >     * Spring Data JPA, QueryDSL
@@ -33,6 +33,7 @@
 >     * Docker
 >     * Kubernetes
 >   * AWS
+>     * EKS
 > 
 > ## 💬 Ask about me
 > Email | laonzenamoon@gmail.com
