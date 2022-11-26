@@ -8,7 +8,7 @@
 >     * Service Discovery: Eureka
 >     * Circuit Breaker: Hystrix, Resilience4j 
 >     * Spring Cloud Config
->   * JPA, MyBatis
+>   * JPA, Spring Data JDBC, MyBatis
 >     * Spring Data JPA, QueryDSL
 >   * Spring REST Docs, Swagger
 >   * Gradle, Maven
